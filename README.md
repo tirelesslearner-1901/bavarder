@@ -1,5 +1,5 @@
 
-# Django Chat Application
+# bavarder
 
 A chat application built using django rest framework. The 
 user can search other users and add them as a friend and have 
@@ -7,9 +7,9 @@ one to one chat with their friends.
 
 ## Screenshots
 
-![image](/Images/start.jpg)
+![image](/Images/Start.png)
 
-![image](/Images/Register.jpg)
+![image](/Images/Register.png)
 
 ## Installation
 
