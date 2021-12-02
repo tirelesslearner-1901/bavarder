@@ -7,9 +7,9 @@ one to one chat with their friends.
 
 ## Screenshots
 
-![image](/Images/search.jpg)
+![image](/Images/start.jpg)
 
-![image](/Images/chat.jpg)
+![image](/Images/Register.jpg)
 
 ## Installation
 
@@ -26,5 +26,4 @@ pip install django-rest-framework
 ```
 python manage.py runserver
 ```
-- It will run the application on your localhost.
 - Open the browser with the localhost address and enjoy the application.
